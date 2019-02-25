@@ -31,3 +31,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 The index.html is the file served by the server. 
 
+//This generates a new component named server with all the starter files you need
+ng generate component servers
